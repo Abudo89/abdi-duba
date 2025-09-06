@@ -6,6 +6,8 @@ I'm a fullstack developer and tech entrepreneur from Kenya. I love solving probl
 I work with both **front-end** and **back-end** technologies, allowing me to deliver complete systems.
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=Abudo89&color=blue)
+
 
 ### 🚀 What I Do
 - 💻 Fullstack Web & Mobile Development
